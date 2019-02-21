@@ -1,5 +1,5 @@
 # Touchless-Piano  
-Piano using ESP8266 and TOF sensor  
+Piano using ESP8266, TOF sensor and DFplayer  
 Use it as Digital Wind Chime  
 Interface with Bluetooth Transmittor  
 Web page to select following  
